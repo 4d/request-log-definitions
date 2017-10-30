@@ -1,4 +1,4 @@
-﻿{"srv4":{
+{"srv4":{
 "0": "pasreq",
 "1": "getres",
 "2": "address",
