@@ -10,7 +10,7 @@ The Request Log is activated with the following code:
 > `SET DATABASE PARAMETER(4D Server log recording;1) //server side`   
 > `SET DATABASE PARAMETER(Client Log Recording;1) //remote side`
 
-Definitions for the columns within the log are available [here][0].
+Definitions for the columns within the log are available [here][0].   
 Definitions for the Component/Request ID is available [here][1].
 
 [0]: http://doc.4d.com/4Dv16R4/4D/16-R4/Appendix-E-Description-of-log-files.300-3343911.en.html#3191655
